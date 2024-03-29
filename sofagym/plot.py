@@ -4,7 +4,7 @@ import json
 import argparse
 
 
-# 做了修改
+#  现在是版本v2
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-ne", "--num_env", help = "Number of the env",
